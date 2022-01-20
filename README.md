@@ -8,7 +8,7 @@
 ### Some numbers
 [![Jackie's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackie-tran&count_private=true&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackie-tran&layout=compact&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackie-tran&layout=compact&hide=jupyter%20notebook,Tex&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Where to find me on the web
 - [Personal Site](https://jackie-tran.netlify.app/)
