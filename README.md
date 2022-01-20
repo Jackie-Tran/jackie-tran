@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Jackie
+### Hi there 👋, I'm Jackie
 
 - 🏫 I'm a 4th student at the University of Toronto studying Computer Science in the Software Engineering stream and a minor in Statistics.
 - 👷 I just finished my co-op at [BookJane](https://www.bookjane.com/) as a Software Development Engineer. I've also worked at the [University of Toronto](https://www.utsc.utoronto.ca/home/) as a Web and Systems Administrator.
