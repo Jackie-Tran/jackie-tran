@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Jackie
 
 - 🏛 I'm a recent graduate from the University of Toronto with a Bachelor's in Computer Science with a minor in Statistics.
-- 👷 Currently freelancing as a Full Stack Developer while actively seeking full-time Software Engineering roles. Recently, I’ve been working on building a fitness app that connects users with their favourite influencers, fostering a supportive and inspiring community.
+- 👷 Currently freelancing as a Full Stack Developer while actively seeking full-time Software Engineering roles. Recently, I’ve been working on building a fitness app that connects users with their favourite influencers.
 - 🌱 Looking to deepen my knowledge in Machine Learning, AI, and Software Architecture to expand my technical expertise and take on more challenging projects.
 - 🧩 Outside of software development, I enjoy playing volleyball, working out and making music in my free time.
 
